@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Text&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+   
+}
+.cc-navbar{
+    width: 1620px;
+    height: 100px;
+    margin-left: 100px;
+    z-index: 1;
+    font-size: 30px;
+}
+.nav-section{
+    color: #1ec36dd9;
+    font-size: 29px;
+    font-family: 'Luckiest Guy';
+}
+.btn-annonce {
+    border-radius: 10px;
+    font-size: 22px;
+	color: #fff;
+	border-color: #1ec36dd9;
+	transition: 0.5s;
+    background-color: #1ec36dd9;
+    font-family: 'Libre Calson';
+}
+.icon{
+    font-family: 'Libre Calson';
+    font-size: 24px;
+    border-bottom: 1px solid transparent;
+}
+.icon:hover{
+    padding-bottom: 15px;
+	border-bottom-color:#1ec36dd9 ;
+}
+.contain{
+    height: 400px;
+    margin: 5px auto;
+}
+.containe{
+    height: 400px;
+    margin: 5px auto;
+}
+.bizarre{
+    font-family: 'Libre Calson';
+    padding-top: 150px;
+   /* padding-left: 250px;*/
+    text-align: center;
+    font-size: 40px;
+    
+}
+.avail{
+   font-family: 'Libre Calson';
+   text-align: center;
+   padding-top: 20px;
+   font-size: 20px;
+}
+.able{
+    margin: 10px;
+    padding-left:47px ;
+    padding-right: 47px;
+    padding-bottom:90px ;
+}
+.available{
+    position: relative;
+    width: 100%;
+    
+}
+/*.btn-annonce:hover,
+.btn-annonce:focus,
+.btn-annonce:active {
+	color: #fff;
+	background-color: #1ec36dd9;
+}*/
+
+.fection{
+    margin-top: 90px;
+    background-color: var(--white);
+}
+.footer .fection{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    gap: 1.5rem;
+    margin-left: 250px;
+    align-items: flex-start;
+}
+.footer .fection .box h3{
+    font-size: 20px;
+    color: var(--black);
+    margin-bottom: 24px;
+    text-transform: capitalize;
+}
+.footer .fection .box a{
+    display: block;
+    margin: 15px 0;
+    font-size: 16px;
+    color: var(--light-color);
+}
+.footer .fection .box a i{
+    padding-right: 12px;
+    /*color: var(--main-color);*/
+    color:#1ec36dd9 ;
+    transition: .4s linear;
+    
+}
+.footer .fection .box a:hover{
+    color: var(--main-color);
+}
+.footer .fection .box a:hover i{
+    padding-right: 20px;
+}
+.footer .bas{
+    text-align: center;
+    padding: 26px 24px;
+    border-top: var(--border);
+    font-size: 20px;
+	
+	color:#1ec36dd9 ;
+    
+}
+.boxe{
+    color:#1ec36dd9 ;
+}
+.fase{
+    color:#1ec36dd9;
+    border-color: #1ec36dd9;
+}
+.fase-2{
+    color:#1ec36dd9;
+    border-color: #1ec36dd9;
+    
+}
+
+
